@@ -83,5 +83,10 @@ desktop.ini
 secrets.json
 *.secret
 
+# ============================================================
+# Local-only files
+# ============================================================
+포트폴리오.pdf
+
 # Unity build output (just in case)
 [Bb]uild[Ss]ettings.asset.user
