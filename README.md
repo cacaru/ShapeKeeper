@@ -26,7 +26,7 @@
 
 ## 📱 다운로드
 
-* **[Google Play](#)** <!-- TODO: 스토어 링크 -->
+* **[Google Play](#https://play.google.com/store/apps/details?id=com.SunhosWorld.ShapeKeeper&hl=ko&pli=1)**
 
 ## 🎮 게임 개요
 
