@@ -1,6 +1,14 @@
 # Shape Keeper 🛡️
 카드로 도형 유닛을 소환하고 합성하여 행성을 지키는 타워 디펜스 게임, Unity 2D 제작
 
+## 👤 개발 정보
+
+* **개발자**: 권순호
+* **장르**: Tower Defense / Card Strategy
+* **개발 기간**: 2025.01 ~ 2025.03
+* **개발 인원**: 1인 개발
+* **담당 역할**: 1인 개발로 인한 전체 담당
+
 ## ✨ Features
 
 * 카드 기반 유닛 소환 — 덱에서 카드를 뽑아 필드에 도형 유닛 배치
@@ -46,44 +54,6 @@
    * 상점(Shop) / 상자 구매(Chest) / 스태미나(Energy) 구매
 * **편의 기능** — 게임 속도 조절(`game_speed`), 난이도 선택, 일시정지, 닉네임/UI 커스터마이징
 
-## 📁 프로젝트 구조
-
-```
-ShapeKeeper/
-├── Assets/
-│   ├── Another Assets/             # 외부 타일셋 등 외부 에셋
-│   ├── Font/                       # 폰트 (TMP SDF 포함)
-│   ├── Plugins/
-│   │   └── Demigiant/DOTween/      # DOTween 트위닝 라이브러리
-│   ├── Resources/
-│   │   ├── 01.Scenes/              # Home / Plannet / Shop / Unit / Achievement / Setting
-│   │   ├── 02.Script/
-│   │   │   ├── Achieve/            # 업적 로딩 / 출석 체크
-│   │   │   ├── Combine/            # 합성 보드 · 도감 · 필드 · 옵저버
-│   │   │   ├── DB/                 # SQLite 연결, 업적 컨트롤러
-│   │   │   ├── Data/               # Singleton, DataStorage, User, Unit, Enemy, Stamina, Quest, Mission, GridNode
-│   │   │   ├── Enemy/              # 스폰, 이동, HP, 골(Goal) 판정, 미션 진행
-│   │   │   ├── Game Controll/      # 게임 시작/종료 흐름
-│   │   │   ├── Observer/           # 업적 / 날짜 변경 / 스태미나 옵저버
-│   │   │   ├── Pooling/            # Bullet · Enemy · Effect · Card · Combine · Area · LockOn · Ora 풀
-│   │   │   ├── Setter/             # 각 씬/패널 초기화 (Home, Plannet, Shop, Unit Page, Upgrade …)
-│   │   │   ├── Shop/               # 상자/에너지 구매, 로딩, 통합 세팅
-│   │   │   ├── Spell/              # 생성 / 발동 / 인식 / 강화 / 타겟팅
-│   │   │   ├── Summon/             # 카드 → 타워 소환, 이동, 회수, 타입 변환, 공격, 총알 이동
-│   │   │   ├── Tower Effect/       # 타워 시각 효과
-│   │   │   └── UI Effect/          # UI 연출 (Stage Selecter, Plannet Hovering, Satellite Mover 등)
-│   │   ├── 03.Prefabs/             # 런타임 로드 프리팹
-│   │   └── 04.Sprite/              # 스프라이트 (Icon, Field, Unit, Enemy 등)
-│   ├── Settings/                   # URP 설정 (Renderer / Volume / Global)
-│   ├── StreamingAssets/
-│   │   └── ShapeKeeperDB.db        # SQLite 게임 데이터베이스
-│   └── TextMesh Pro/               # TMP 에셋
-├── Packages/                       # Unity 패키지 매니페스트
-└── ProjectSettings/                # Unity 프로젝트 설정
-```
-
-Android 서명 키(`*.keystore`)는 보안상 저장소에 포함되지 않습니다. 빌드 시 별도로 관리해야 합니다.
-
 ## 🔧 핵심 시스템
 
 ### 제네릭 싱글톤 & 전역 상태 허브
@@ -121,13 +91,44 @@ Card_To_Summon  →  TowerInstaller  →  Summon
 
 `Combine_Board`(드래그 보드), `Combine_Field`(전장 합성), `Combine_Book`(도감), `Combine_Function_Creater`(레시피 생성), `Combine_Observer`(결과 통지)로 구성되어 머지 메커닉의 상호작용을 모듈화했습니다.
 
-## 👤 개발 정보
 
-* **개발자**: 권순호
-* **장르**: Tower Defense / Card Strategy
-* **개발 기간**: 2025.01 ~ 2025.03
-* **개발 인원**: 1인 개발
-* **담당 역할**: 1인 개발로 인한 전체 담당
+## 📁 프로젝트 구조
+
+```
+ShapeKeeper/
+├── Assets/
+│   ├── Another Assets/             # 외부 타일셋 등 외부 에셋
+│   ├── Font/                       # 폰트 (TMP SDF 포함)
+│   ├── Plugins/
+│   │   └── Demigiant/DOTween/      # DOTween 트위닝 라이브러리
+│   ├── Resources/
+│   │   ├── 01.Scenes/              # Home / Plannet / Shop / Unit / Achievement / Setting
+│   │   ├── 02.Script/
+│   │   │   ├── Achieve/            # 업적 로딩 / 출석 체크
+│   │   │   ├── Combine/            # 합성 보드 · 도감 · 필드 · 옵저버
+│   │   │   ├── DB/                 # SQLite 연결, 업적 컨트롤러
+│   │   │   ├── Data/               # Singleton, DataStorage, User, Unit, Enemy, Stamina, Quest, Mission, GridNode
+│   │   │   ├── Enemy/              # 스폰, 이동, HP, 골(Goal) 판정, 미션 진행
+│   │   │   ├── Game Controll/      # 게임 시작/종료 흐름
+│   │   │   ├── Observer/           # 업적 / 날짜 변경 / 스태미나 옵저버
+│   │   │   ├── Pooling/            # Bullet · Enemy · Effect · Card · Combine · Area · LockOn · Ora 풀
+│   │   │   ├── Setter/             # 각 씬/패널 초기화 (Home, Plannet, Shop, Unit Page, Upgrade …)
+│   │   │   ├── Shop/               # 상자/에너지 구매, 로딩, 통합 세팅
+│   │   │   ├── Spell/              # 생성 / 발동 / 인식 / 강화 / 타겟팅
+│   │   │   ├── Summon/             # 카드 → 타워 소환, 이동, 회수, 타입 변환, 공격, 총알 이동
+│   │   │   ├── Tower Effect/       # 타워 시각 효과
+│   │   │   └── UI Effect/          # UI 연출 (Stage Selecter, Plannet Hovering, Satellite Mover 등)
+│   │   ├── 03.Prefabs/             # 런타임 로드 프리팹
+│   │   └── 04.Sprite/              # 스프라이트 (Icon, Field, Unit, Enemy 등)
+│   ├── Settings/                   # URP 설정 (Renderer / Volume / Global)
+│   ├── StreamingAssets/
+│   │   └── ShapeKeeperDB.db        # SQLite 게임 데이터베이스
+│   └── TextMesh Pro/               # TMP 에셋
+├── Packages/                       # Unity 패키지 매니페스트
+└── ProjectSettings/                # Unity 프로젝트 설정
+```
+
+Android 서명 키(`*.keystore`)는 보안상 저장소에 포함되지 않습니다. 빌드 시 별도로 관리해야 합니다.
 
 ## 🚀 빌드 및 실행
 
