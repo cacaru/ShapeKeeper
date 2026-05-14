@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 148fcc67c9e5ca04e932b0724ecc6efe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2687563124427503371
+    second: core_boss_normal_idle_0
+  - first:
+      213: 5050712402414678239
+    second: core_boss_normal_idle_1
+  - first:
+      213: 151167899172792283
+    second: core_boss_normal_idle_2
+  - first:
+      213: -6087652760716607583
+    second: core_boss_normal_idle_3
+  - first:
+      213: 2130877348308151231
+    second: core_boss_normal_idle_4
+  - first:
+      213: -2018809603498946966
+    second: core_boss_normal_idle_5
+  - first:
+      213: -6203314580649172544
+    second: core_boss_normal_idle_6
+  - first:
+      213: 8821105292947476966
+    second: core_boss_normal_idle_7
+  - first:
+      213: 6595703224646604902
+    second: core_boss_normal_idle_8
+  - first:
+      213: -1633032459059090260
+    second: core_boss_normal_idle_9
+  - first:
+      213: 9200636887354254775
+    second: core_boss_normal_idle_10
+  - first:
+      213: 8678598455772236280
+    second: core_boss_normal_idle_11
+  - first:
+      213: 4828424964946358793
+    second: core_boss_normal_idle_12
+  - first:
+      213: -8396441288063609122
+    second: core_boss_normal_idle_13
+  - first:
+      213: -2656305688833470435
+    second: core_boss_normal_idle_14
+  - first:
+      213: -7227137260969101172
+    second: core_boss_normal_idle_15
+  - first:
+      213: -3764324345181315464
+    second: core_boss_normal_idle_16
+  - first:
+      213: 738531526754736587
+    second: core_boss_normal_idle_17
+  - first:
+      213: 8666929428653525291
+    second: core_boss_normal_idle_18
+  - first:
+      213: -2096025226219091650
+    second: core_boss_normal_idle_19
+  - first:
+      213: -5917094949647244282
+    second: core_boss_normal_idle_20
+  - first:
+      213: -1351736705584966734
+    second: core_boss_normal_idle_21
+  - first:
+      213: 7196298095262939544
+    second: core_boss_normal_idle_22
+  - first:
+      213: -7982635039600930849
+    second: core_boss_normal_idle_23
+  - first:
+      213: -3503010635905707829
+    second: core_boss_normal_idle_24
+  - first:
+      213: 7924066275631471789
+    second: core_boss_normal_idle_25
+  - first:
+      213: 5756335209884006843
+    second: core_boss_normal_idle_26
+  - first:
+      213: 5117791218903794239
+    second: core_boss_normal_idle_27
+  - first:
+      213: 6873812993863578150
+    second: core_boss_normal_idle_28
+  - first:
+      213: 6876533985881770322
+    second: core_boss_normal_idle_29
+  - first:
+      213: 4216665936624442494
+    second: core_boss_normal_idle_30
+  - first:
+      213: 8508073551270152882
+    second: core_boss_normal_idle_31
+  - first:
+      213: -3724285932444252217
+    second: core_boss_normal_idle_32
+  - first:
+      213: 3894157080563876293
+    second: core_boss_normal_idle_33
+  - first:
+      213: 2799675855588787018
+    second: core_boss_normal_idle_34
+  - first:
+      213: 6545356103732548562
+    second: core_boss_normal_idle_35
+  - first:
+      213: 4322320835334472471
+    second: core_boss_normal_idle_36
+  - first:
+      213: -1667268278218357049
+    second: core_boss_normal_idle_37
+  - first:
+      213: 1522433498346830967
+    second: core_boss_normal_idle_38
+  - first:
+      213: 10295630909474583
+    second: core_boss_normal_idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: core_boss_normal_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f84f01e39bd3bad0800000000000000
+      internalID: -2687563124427503371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd036909b2cb71640800000000000000
+      internalID: 5050712402414678239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e2a3476e091200800000000000000
+      internalID: 151167899172792283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af7f816110548ba0800000000000000
+      internalID: -6087652760716607583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb65dd88a5629d10800000000000000
+      internalID: 2130877348308151231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e4c4a9c5fbbf3e0800000000000000
+      internalID: -2018809603498946966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1a766614669e9a0800000000000000
+      internalID: -6203314580649172544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1d378178cda6a70800000000000000
+      internalID: 8821105292947476966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66895f42325a88b50800000000000000
+      internalID: 6595703224646604902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_normal_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caca91371ad4659e0800000000000000
+      internalID: -1633032459059090260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad5c6dd39c4bb524cb09daf1132744d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      core_boss_normal_idle_0: -2687563124427503371
+      core_boss_normal_idle_1: 5050712402414678239
+      core_boss_normal_idle_2: 151167899172792283
+      core_boss_normal_idle_3: -6087652760716607583
+      core_boss_normal_idle_4: 2130877348308151231
+      core_boss_normal_idle_5: -2018809603498946966
+      core_boss_normal_idle_6: -6203314580649172544
+      core_boss_normal_idle_7: 8821105292947476966
+      core_boss_normal_idle_8: 6595703224646604902
+      core_boss_normal_idle_9: -1633032459059090260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

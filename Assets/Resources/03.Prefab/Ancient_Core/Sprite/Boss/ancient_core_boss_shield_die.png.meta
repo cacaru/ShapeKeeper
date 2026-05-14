@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: df9242d44a0d20d409259796cd1055f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7181033085006410799
+    second: ancient_core_boss_shield_die_0
+  - first:
+      213: 1235294174787567202
+    second: ancient_core_boss_shield_die_1
+  - first:
+      213: 4686233930162440015
+    second: ancient_core_boss_shield_die_2
+  - first:
+      213: 5184785701019580768
+    second: ancient_core_boss_shield_die_3
+  - first:
+      213: 3410631393803397769
+    second: ancient_core_boss_shield_die_4
+  - first:
+      213: -5195885367687596459
+    second: ancient_core_boss_shield_die_5
+  - first:
+      213: 5395654527605316063
+    second: ancient_core_boss_shield_die_6
+  - first:
+      213: -1627945704489649480
+    second: ancient_core_boss_shield_die_7
+  - first:
+      213: 8278245535248409970
+    second: ancient_core_boss_shield_die_8
+  - first:
+      213: -5273257897960074051
+    second: ancient_core_boss_shield_die_9
+  - first:
+      213: 5125255727663446717
+    second: ancient_core_boss_shield_die_10
+  - first:
+      213: 5442510203536755020
+    second: ancient_core_boss_shield_die_11
+  - first:
+      213: -7647628393404589073
+    second: ancient_core_boss_shield_die_12
+  - first:
+      213: 1570911352922940825
+    second: ancient_core_boss_shield_die_13
+  - first:
+      213: -8117059059061413505
+    second: ancient_core_boss_shield_die_14
+  - first:
+      213: 6704002211939183916
+    second: ancient_core_boss_shield_die_15
+  - first:
+      213: 4899028601734573854
+    second: ancient_core_boss_shield_die_16
+  - first:
+      213: 7524313339156306270
+    second: ancient_core_boss_shield_die_17
+  - first:
+      213: 1509731526914699369
+    second: ancient_core_boss_shield_die_18
+  - first:
+      213: 4551055737407162488
+    second: ancient_core_boss_shield_die_19
+  - first:
+      213: -5100672531016372017
+    second: ancient_core_boss_shield_die_20
+  - first:
+      213: 7112062339190845851
+    second: ancient_core_boss_shield_die_21
+  - first:
+      213: 2708995777055133489
+    second: ancient_core_boss_shield_die_22
+  - first:
+      213: 5743255666695294942
+    second: ancient_core_boss_shield_die_23
+  - first:
+      213: 3760239764190861885
+    second: ancient_core_boss_shield_die_24
+  - first:
+      213: -1522319002876375649
+    second: ancient_core_boss_shield_die_25
+  - first:
+      213: 3401880954637326606
+    second: ancient_core_boss_shield_die_26
+  - first:
+      213: -8853692542406608771
+    second: ancient_core_boss_shield_die_27
+  - first:
+      213: -7183299070781176470
+    second: ancient_core_boss_shield_die_28
+  - first:
+      213: 5558932573123779466
+    second: ancient_core_boss_shield_die_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c16cbad26619854098703cdbefc9756
+      internalID: 1617921626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d373e7b63b8a20646a2a64b08c1abbc7
+      internalID: 292809084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d038bcf29bef1f349b08b22ea7b51288
+      internalID: -1560309201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cda24899df45c42820cd60f66cbb6a
+      internalID: -1570133305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e6e480ba8685d4da8c138fd33b629b
+      internalID: 245462542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fec21f30c52704b898c1c98a604ad2
+      internalID: 1490118919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7329d77f872f9544baf12cf72eb396d8
+      internalID: -2123225746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc26a54e6ec66c449130c708757bb2c
+      internalID: -1099984409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e55042b942dfe43a5ac6a53003643e
+      internalID: -544837868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_boss_shield_die_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536c2064f647d3418873b4845d1efb0
+      internalID: 938683152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67330f750c3f8ba44a84443b75d9886e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ancient_core_boss_shield_die_0: 1617921626
+      ancient_core_boss_shield_die_1: 292809084
+      ancient_core_boss_shield_die_2: -1560309201
+      ancient_core_boss_shield_die_3: -1570133305
+      ancient_core_boss_shield_die_4: 245462542
+      ancient_core_boss_shield_die_5: 1490118919
+      ancient_core_boss_shield_die_6: -2123225746
+      ancient_core_boss_shield_die_7: -1099984409
+      ancient_core_boss_shield_die_8: -544837868
+      ancient_core_boss_shield_die_9: 938683152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

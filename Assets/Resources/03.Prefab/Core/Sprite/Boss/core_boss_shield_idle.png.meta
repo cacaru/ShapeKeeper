@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: a676558e55ca65f43839cc75081c83e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2275822306615301773
+    second: core_boss_shield_idle_0
+  - first:
+      213: 7381549910785900284
+    second: core_boss_shield_idle_1
+  - first:
+      213: 3771220072507133230
+    second: core_boss_shield_idle_2
+  - first:
+      213: 297795169726081461
+    second: core_boss_shield_idle_3
+  - first:
+      213: -2449654232100062766
+    second: core_boss_shield_idle_4
+  - first:
+      213: -6757986867974386354
+    second: core_boss_shield_idle_5
+  - first:
+      213: -2844631115271261190
+    second: core_boss_shield_idle_6
+  - first:
+      213: -8644694463974271317
+    second: core_boss_shield_idle_7
+  - first:
+      213: -3239908458509216976
+    second: core_boss_shield_idle_8
+  - first:
+      213: 9165566522032832085
+    second: core_boss_shield_idle_9
+  - first:
+      213: -4397081380271340121
+    second: core_boss_shield_idle_10
+  - first:
+      213: -3857304254119154181
+    second: core_boss_shield_idle_11
+  - first:
+      213: 5716856634913474817
+    second: core_boss_shield_idle_12
+  - first:
+      213: 7791118683207174883
+    second: core_boss_shield_idle_13
+  - first:
+      213: -2056134110420878293
+    second: core_boss_shield_idle_14
+  - first:
+      213: -8331274879842788878
+    second: core_boss_shield_idle_15
+  - first:
+      213: 5947810726029207992
+    second: core_boss_shield_idle_16
+  - first:
+      213: -395619228112648463
+    second: core_boss_shield_idle_17
+  - first:
+      213: -2397914732237349527
+    second: core_boss_shield_idle_18
+  - first:
+      213: 3163960788321835798
+    second: core_boss_shield_idle_19
+  - first:
+      213: -8057812874017807388
+    second: core_boss_shield_idle_20
+  - first:
+      213: -442000192137327173
+    second: core_boss_shield_idle_21
+  - first:
+      213: -7522862333176942384
+    second: core_boss_shield_idle_22
+  - first:
+      213: 9056756480104487646
+    second: core_boss_shield_idle_23
+  - first:
+      213: -6387590050641999861
+    second: core_boss_shield_idle_24
+  - first:
+      213: -5299598399750666919
+    second: core_boss_shield_idle_25
+  - first:
+      213: -7926975756163169771
+    second: core_boss_shield_idle_26
+  - first:
+      213: -6251374123839692323
+    second: core_boss_shield_idle_27
+  - first:
+      213: 7759688335617346779
+    second: core_boss_shield_idle_28
+  - first:
+      213: 2641802047190852326
+    second: core_boss_shield_idle_29
+  - first:
+      213: -5016825221437630204
+    second: core_boss_shield_idle_30
+  - first:
+      213: -7650925026614714743
+    second: core_boss_shield_idle_31
+  - first:
+      213: -4989632138050961163
+    second: core_boss_shield_idle_32
+  - first:
+      213: -5639723561337200422
+    second: core_boss_shield_idle_33
+  - first:
+      213: -6071504818742894272
+    second: core_boss_shield_idle_34
+  - first:
+      213: 6671578408082437963
+    second: core_boss_shield_idle_35
+  - first:
+      213: -5607518858553209027
+    second: core_boss_shield_idle_36
+  - first:
+      213: 1687969911495892230
+    second: core_boss_shield_idle_37
+  - first:
+      213: 6403492677621905371
+    second: core_boss_shield_idle_38
+  - first:
+      213: -6199325381640422845
+    second: core_boss_shield_idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: core_boss_shield_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8617bd7458559f10800000000000000
+      internalID: 2275822306615301773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb534e888807660800000000000000
+      internalID: 7381549910785900284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4c97dca0165430800000000000000
+      internalID: 3771220072507133230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9a95b012bf12400800000000000000
+      internalID: 297795169726081461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b4296474110ed0800000000000000
+      internalID: -2449654232100062766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dc1a9bfbec632a0800000000000000
+      internalID: -6757986867974386354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3bb397217d588d0800000000000000
+      internalID: -2844631115271261190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba61703cf20e70880800000000000000
+      internalID: -8644694463974271317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03356c93c688903d0800000000000000
+      internalID: -3239908458509216976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_shield_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ebaf6c032a23f70800000000000000
+      internalID: 9165566522032832085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1dc1db6b2be44a4ea09dd57a110a58c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      core_boss_shield_idle_0: 2275822306615301773
+      core_boss_shield_idle_1: 7381549910785900284
+      core_boss_shield_idle_2: 3771220072507133230
+      core_boss_shield_idle_3: 297795169726081461
+      core_boss_shield_idle_4: -2449654232100062766
+      core_boss_shield_idle_5: -6757986867974386354
+      core_boss_shield_idle_6: -2844631115271261190
+      core_boss_shield_idle_7: -8644694463974271317
+      core_boss_shield_idle_8: -3239908458509216976
+      core_boss_shield_idle_9: 9165566522032832085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: d87d3aa0fd797ec489aa8ec787769f18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3316852398057790862
+    second: core_boss_bust_die_0
+  - first:
+      213: -1473544962249984064
+    second: core_boss_bust_die_1
+  - first:
+      213: -6576012222601302408
+    second: core_boss_bust_die_2
+  - first:
+      213: 8487667167830370818
+    second: core_boss_bust_die_3
+  - first:
+      213: 5556532282510036568
+    second: core_boss_bust_die_4
+  - first:
+      213: -8614017837780768717
+    second: core_boss_bust_die_5
+  - first:
+      213: -778995275998530948
+    second: core_boss_bust_die_6
+  - first:
+      213: 3942391698510160373
+    second: core_boss_bust_die_7
+  - first:
+      213: -2950828208972221169
+    second: core_boss_bust_die_8
+  - first:
+      213: -6604166207090110369
+    second: core_boss_bust_die_9
+  - first:
+      213: -6966052042167337090
+    second: core_boss_bust_die_10
+  - first:
+      213: -5792060522775997363
+    second: core_boss_bust_die_11
+  - first:
+      213: -6718685326154908805
+    second: core_boss_bust_die_12
+  - first:
+      213: 7247156954331071153
+    second: core_boss_bust_die_13
+  - first:
+      213: -8043891384944216215
+    second: core_boss_bust_die_14
+  - first:
+      213: 1775374562708879741
+    second: core_boss_bust_die_15
+  - first:
+      213: 469049575001229694
+    second: core_boss_bust_die_16
+  - first:
+      213: 6634714605867812783
+    second: core_boss_bust_die_17
+  - first:
+      213: -4840166118520282892
+    second: core_boss_bust_die_18
+  - first:
+      213: -7572128281715504599
+    second: core_boss_bust_die_19
+  - first:
+      213: -2927575887027132352
+    second: core_boss_bust_die_20
+  - first:
+      213: -3382472594885417637
+    second: core_boss_bust_die_21
+  - first:
+      213: 3783803424718488372
+    second: core_boss_bust_die_22
+  - first:
+      213: -6819740416672889944
+    second: core_boss_bust_die_23
+  - first:
+      213: -4190731663710753070
+    second: core_boss_bust_die_24
+  - first:
+      213: 2437081303828129624
+    second: core_boss_bust_die_25
+  - first:
+      213: 6588084375589703052
+    second: core_boss_bust_die_26
+  - first:
+      213: 4883502353332887276
+    second: core_boss_bust_die_27
+  - first:
+      213: -2747399233950921568
+    second: core_boss_bust_die_28
+  - first:
+      213: -873431871400447939
+    second: core_boss_bust_die_29
+  - first:
+      213: -4389569005601709383
+    second: core_boss_bust_die_30
+  - first:
+      213: 1853034163267315411
+    second: core_boss_bust_die_31
+  - first:
+      213: 351323343637047864
+    second: core_boss_bust_die_32
+  - first:
+      213: 4781570569595988273
+    second: core_boss_bust_die_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: core_boss_bust_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ec51415c28f1d0800000000000000
+      internalID: -3316852398057790862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7f58cf9aaec8be0800000000000000
+      internalID: -1473544962249984064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ee83989bf4db4a0800000000000000
+      internalID: -6576012222601302408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a664ec1504ac570800000000000000
+      internalID: 8487667167830370818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4002dba4cc1d40800000000000000
+      internalID: 5556532282510036568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338e2326a6cd47880800000000000000
+      internalID: -8614017837780768717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72766c7ce37035f0800000000000000
+      internalID: -778995275998530948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a523bc5036b630800000000000000
+      internalID: 3942391698510160373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05320bc06d8c07d0800000000000000
+      internalID: -2950828208972221169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_die_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5051c433d94954a0800000000000000
+      internalID: -6604166207090110369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14994878e3bfc6346a1aa9127d70b0de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      core_boss_bust_die_0: -3316852398057790862
+      core_boss_bust_die_1: -1473544962249984064
+      core_boss_bust_die_2: -6576012222601302408
+      core_boss_bust_die_3: 8487667167830370818
+      core_boss_bust_die_4: 5556532282510036568
+      core_boss_bust_die_5: -8614017837780768717
+      core_boss_bust_die_6: -778995275998530948
+      core_boss_bust_die_7: 3942391698510160373
+      core_boss_bust_die_8: -2950828208972221169
+      core_boss_bust_die_9: -6604166207090110369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

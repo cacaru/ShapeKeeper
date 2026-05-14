@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bd61928e53973f14494a3f7596fde6b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4938989440088129415
+    second: ancient_core_shield_die_0
+  - first:
+      213: -4244356246414276108
+    second: ancient_core_shield_die_1
+  - first:
+      213: -4434697877286383756
+    second: ancient_core_shield_die_2
+  - first:
+      213: -4916926659680182685
+    second: ancient_core_shield_die_3
+  - first:
+      213: -8787294204791772054
+    second: ancient_core_shield_die_4
+  - first:
+      213: -1834413854702507458
+    second: ancient_core_shield_die_5
+  - first:
+      213: 5034196526881397066
+    second: ancient_core_shield_die_6
+  - first:
+      213: 8586253631432762437
+    second: ancient_core_shield_die_7
+  - first:
+      213: -209565048941865952
+    second: ancient_core_shield_die_8
+  - first:
+      213: 7995968063713093999
+    second: ancient_core_shield_die_9
+  - first:
+      213: 5883937891580635038
+    second: ancient_core_shield_die_10
+  - first:
+      213: 3285207292656502592
+    second: ancient_core_shield_die_11
+  - first:
+      213: 6307273608544653249
+    second: ancient_core_shield_die_12
+  - first:
+      213: -8403582759556347482
+    second: ancient_core_shield_die_13
+  - first:
+      213: -4774161828354591371
+    second: ancient_core_shield_die_14
+  - first:
+      213: 8446596615681289252
+    second: ancient_core_shield_die_15
+  - first:
+      213: -8464229379573730865
+    second: ancient_core_shield_die_16
+  - first:
+      213: -1681411075797072619
+    second: ancient_core_shield_die_17
+  - first:
+      213: 5548537139601312919
+    second: ancient_core_shield_die_18
+  - first:
+      213: 2312652592169727262
+    second: ancient_core_shield_die_19
+  - first:
+      213: 8780787535545615683
+    second: ancient_core_shield_die_20
+  - first:
+      213: -6297718637515993091
+    second: ancient_core_shield_die_21
+  - first:
+      213: -7984910994894315597
+    second: ancient_core_shield_die_22
+  - first:
+      213: 2719107250649679858
+    second: ancient_core_shield_die_23
+  - first:
+      213: -792315013581150227
+    second: ancient_core_shield_die_24
+  - first:
+      213: 7183084623641576945
+    second: ancient_core_shield_die_25
+  - first:
+      213: -7631638781925583707
+    second: ancient_core_shield_die_26
+  - first:
+      213: 6512851012821740837
+    second: ancient_core_shield_die_27
+  - first:
+      213: -8852249849145553445
+    second: ancient_core_shield_die_28
+  - first:
+      213: 5001988942996770204
+    second: ancient_core_shield_die_29
+  - first:
+      213: -4940764012929101547
+    second: ancient_core_shield_die_30
+  - first:
+      213: 543477723168034457
+    second: ancient_core_shield_die_31
+  - first:
+      213: 4265525449488047636
+    second: ancient_core_shield_die_32
+  - first:
+      213: 6817277075266121087
+    second: ancient_core_shield_die_33
+  - first:
+      213: -7996884717238962903
+    second: ancient_core_shield_die_34
+  - first:
+      213: -7041435215435255501
+    second: ancient_core_shield_die_35
+  - first:
+      213: -2684130647260837854
+    second: ancient_core_shield_die_36
+  - first:
+      213: 1762242207863283894
+    second: ancient_core_shield_die_37
+  - first:
+      213: 5839309022908761427
+    second: ancient_core_shield_die_38
+  - first:
+      213: 7912830578224907259
+    second: ancient_core_shield_die_39
+  - first:
+      213: 4299880523332006803
+    second: ancient_core_shield_die_40
+  - first:
+      213: 6175479426548811100
+    second: ancient_core_shield_die_41
+  - first:
+      213: 6851550347020409477
+    second: ancient_core_shield_die_42
+  - first:
+      213: 8772030559979886418
+    second: ancient_core_shield_die_43
+  - first:
+      213: -7466948237364078213
+    second: ancient_core_shield_die_44
+  - first:
+      213: -1675843403276737175
+    second: ancient_core_shield_die_45
+  - first:
+      213: -6026409646728304888
+    second: ancient_core_shield_die_46
+  - first:
+      213: -8412999831401674658
+    second: ancient_core_shield_die_47
+  - first:
+      213: -7704028892342102672
+    second: ancient_core_shield_die_48
+  - first:
+      213: -3286867624410473478
+    second: ancient_core_shield_die_49
+  - first:
+      213: 6631839547803588720
+    second: ancient_core_shield_die_50
+  - first:
+      213: 1958160526200576087
+    second: ancient_core_shield_die_51
+  - first:
+      213: 476880774208315824
+    second: ancient_core_shield_die_52
+  - first:
+      213: 889742804808046117
+    second: ancient_core_shield_die_53
+  - first:
+      213: -2027409808492384804
+    second: ancient_core_shield_die_54
+  - first:
+      213: -2818418910842892867
+    second: ancient_core_shield_die_55
+  - first:
+      213: -5409381615300090801
+    second: ancient_core_shield_die_56
+  - first:
+      213: -3823469298651635209
+    second: ancient_core_shield_die_57
+  - first:
+      213: -47304370488999418
+    second: ancient_core_shield_die_58
+  - first:
+      213: -7512278921525942101
+    second: ancient_core_shield_die_59
+  - first:
+      213: -8957810345462087845
+    second: ancient_core_shield_die_60
+  - first:
+      213: -8653993154752148350
+    second: ancient_core_shield_die_61
+  - first:
+      213: 7839789395233063104
+    second: ancient_core_shield_die_62
+  - first:
+      213: 4565420484809296488
+    second: ancient_core_shield_die_63
+  - first:
+      213: 2659329251562374157
+    second: ancient_core_shield_die_64
+  - first:
+      213: -173956311590387703
+    second: ancient_core_shield_die_65
+  - first:
+      213: -1985928959408418460
+    second: ancient_core_shield_die_66
+  - first:
+      213: 7301399043924804959
+    second: ancient_core_shield_die_67
+  - first:
+      213: 3768528270707862126
+    second: ancient_core_shield_die_68
+  - first:
+      213: 1385431359842774697
+    second: ancient_core_shield_die_69
+  - first:
+      213: -8241606307539126030
+    second: ancient_core_shield_die_70
+  - first:
+      213: 5317684145463842699
+    second: ancient_core_shield_die_71
+  - first:
+      213: 713141417726951962
+    second: ancient_core_shield_die_72
+  - first:
+      213: -6159517087818656885
+    second: ancient_core_shield_die_73
+  - first:
+      213: 4871611295183536863
+    second: ancient_core_shield_die_74
+  - first:
+      213: -887584073647928866
+    second: ancient_core_shield_die_75
+  - first:
+      213: -9065493240116694329
+    second: ancient_core_shield_die_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ancient_core_shield_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fbbd55ab0da8440800000000000000
+      internalID: 4938989440088129415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f944404b740915c0800000000000000
+      internalID: -4244356246414276108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f8a22d6c9c472c0800000000000000
+      internalID: -4434697877286383756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5d17014193cbb0800000000000000
+      internalID: -4916926659680182685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ca9825a724d0680800000000000000
+      internalID: -8787294204791772054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ae66b715ada86e0800000000000000
+      internalID: -1834413854702507458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a495542a11f0dd540800000000000000
+      internalID: 5034196526881397066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54425f49f20882770800000000000000
+      internalID: 8586253631432762437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249b74c2b9771df0800000000000000
+      internalID: -209565048941865952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69acf8e69267fe60800000000000000
+      internalID: 7995968063713093999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97ef148652f7a150800000000000000
+      internalID: 5883937891580635038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_shield_die_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047405c70a6679d20800000000000000
+      internalID: 3285207292656502592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae86f71a4dd7b6944a76d19e1a0d2853
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ancient_core_shield_die_0: 4938989440088129415
+      ancient_core_shield_die_1: -4244356246414276108
+      ancient_core_shield_die_10: 5883937891580635038
+      ancient_core_shield_die_11: 3285207292656502592
+      ancient_core_shield_die_2: -4434697877286383756
+      ancient_core_shield_die_3: -4916926659680182685
+      ancient_core_shield_die_4: -8787294204791772054
+      ancient_core_shield_die_5: -1834413854702507458
+      ancient_core_shield_die_6: 5034196526881397066
+      ancient_core_shield_die_7: 8586253631432762437
+      ancient_core_shield_die_8: -209565048941865952
+      ancient_core_shield_die_9: 7995968063713093999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

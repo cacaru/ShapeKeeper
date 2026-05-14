@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 92c75568d69e90f44b33a6d8fe509155
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4527951113195161417
+    second: core_boss_bust_idle_0
+  - first:
+      213: 5979233740018421384
+    second: core_boss_bust_idle_1
+  - first:
+      213: -9065364720141848434
+    second: core_boss_bust_idle_2
+  - first:
+      213: 252730441816382377
+    second: core_boss_bust_idle_3
+  - first:
+      213: -999928594740235601
+    second: core_boss_bust_idle_4
+  - first:
+      213: 3868815854251069742
+    second: core_boss_bust_idle_5
+  - first:
+      213: -6758955521297097781
+    second: core_boss_bust_idle_6
+  - first:
+      213: 2523088023651925900
+    second: core_boss_bust_idle_7
+  - first:
+      213: -6269009787224482222
+    second: core_boss_bust_idle_8
+  - first:
+      213: 958918449687460977
+    second: core_boss_bust_idle_9
+  - first:
+      213: 1876641322571262348
+    second: core_boss_bust_idle_10
+  - first:
+      213: -7776869348632964864
+    second: core_boss_bust_idle_11
+  - first:
+      213: 8010411849274068009
+    second: core_boss_bust_idle_12
+  - first:
+      213: -4721843001562750399
+    second: core_boss_bust_idle_13
+  - first:
+      213: 7030319808618604882
+    second: core_boss_bust_idle_14
+  - first:
+      213: 3425504366366455617
+    second: core_boss_bust_idle_15
+  - first:
+      213: -5657245600972082358
+    second: core_boss_bust_idle_16
+  - first:
+      213: 8924880210957661148
+    second: core_boss_bust_idle_17
+  - first:
+      213: 5188541957278726616
+    second: core_boss_bust_idle_18
+  - first:
+      213: 1282065489135080600
+    second: core_boss_bust_idle_19
+  - first:
+      213: -8405361202019540473
+    second: core_boss_bust_idle_20
+  - first:
+      213: -379638931383630366
+    second: core_boss_bust_idle_21
+  - first:
+      213: 3350020070604291266
+    second: core_boss_bust_idle_22
+  - first:
+      213: 7244903677099818522
+    second: core_boss_bust_idle_23
+  - first:
+      213: 3230105494887736939
+    second: core_boss_bust_idle_24
+  - first:
+      213: 4177765401130388721
+    second: core_boss_bust_idle_25
+  - first:
+      213: -4150136346127284399
+    second: core_boss_bust_idle_26
+  - first:
+      213: -3740313356243878691
+    second: core_boss_bust_idle_27
+  - first:
+      213: -6892659067548333229
+    second: core_boss_bust_idle_28
+  - first:
+      213: -7190816599294916222
+    second: core_boss_bust_idle_29
+  - first:
+      213: -2498788003107247505
+    second: core_boss_bust_idle_30
+  - first:
+      213: 2675747833192845112
+    second: core_boss_bust_idle_31
+  - first:
+      213: 6334849518032814028
+    second: core_boss_bust_idle_32
+  - first:
+      213: 2739403410859634372
+    second: core_boss_bust_idle_33
+  - first:
+      213: -104640082458748287
+    second: core_boss_bust_idle_34
+  - first:
+      213: -6929063048869549586
+    second: core_boss_bust_idle_35
+  - first:
+      213: 8119079145562059191
+    second: core_boss_bust_idle_36
+  - first:
+      213: 2398700639909924061
+    second: core_boss_bust_idle_37
+  - first:
+      213: 6152661615914608814
+    second: core_boss_bust_idle_38
+  - first:
+      213: 4606774018894601457
+    second: core_boss_bust_idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: core_boss_bust_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947055e1c8386de30800000000000000
+      internalID: 4527951113195161417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e04de38618af250800000000000000
+      internalID: 5979233740018421384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80369041da513280800000000000000
+      internalID: -9065364720141848434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab94607ff0e18300800000000000000
+      internalID: 252730441816382377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b0cdad3a8f12f0800000000000000
+      internalID: -999928594740235601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_5
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21d806858bc0b530800000000000000
+      internalID: 3868815854251069742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbdb6c83cd5332a0800000000000000
+      internalID: -6758955521297097781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_7
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fb0da803fc30320800000000000000
+      internalID: 2523088023651925900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e990b20d00009a0800000000000000
+      internalID: -6269009787224482222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: core_boss_bust_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c703adf33ce4d00800000000000000
+      internalID: 958918449687460977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9054c72f99fb5a245923dbc9468f6f4f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      core_boss_bust_idle_0: 4527951113195161417
+      core_boss_bust_idle_1: 5979233740018421384
+      core_boss_bust_idle_2: -9065364720141848434
+      core_boss_bust_idle_3: 252730441816382377
+      core_boss_bust_idle_4: -999928594740235601
+      core_boss_bust_idle_5: 3868815854251069742
+      core_boss_bust_idle_6: -6758955521297097781
+      core_boss_bust_idle_7: 2523088023651925900
+      core_boss_bust_idle_8: -6269009787224482222
+      core_boss_bust_idle_9: 958918449687460977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

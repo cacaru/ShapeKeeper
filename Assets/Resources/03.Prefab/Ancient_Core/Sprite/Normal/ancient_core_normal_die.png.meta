@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 100b3a9cd23ab804f89431796d7e4dfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8926845842663791827
+    second: ancient_core_normal_die_0
+  - first:
+      213: 2652490566737337274
+    second: ancient_core_normal_die_1
+  - first:
+      213: 6127121235717976498
+    second: ancient_core_normal_die_2
+  - first:
+      213: -5276684040217750399
+    second: ancient_core_normal_die_3
+  - first:
+      213: 5899907621883575945
+    second: ancient_core_normal_die_4
+  - first:
+      213: -358646666567600805
+    second: ancient_core_normal_die_5
+  - first:
+      213: -6018351143193101745
+    second: ancient_core_normal_die_6
+  - first:
+      213: -8876539898739742377
+    second: ancient_core_normal_die_7
+  - first:
+      213: 585593500066327515
+    second: ancient_core_normal_die_8
+  - first:
+      213: 8720913493873015982
+    second: ancient_core_normal_die_9
+  - first:
+      213: 4983586510620913771
+    second: ancient_core_normal_die_10
+  - first:
+      213: -9155403399988387735
+    second: ancient_core_normal_die_11
+  - first:
+      213: -362213200177561315
+    second: ancient_core_normal_die_12
+  - first:
+      213: -2531357271520171312
+    second: ancient_core_normal_die_13
+  - first:
+      213: 7744570852506119696
+    second: ancient_core_normal_die_14
+  - first:
+      213: -4220189768393730964
+    second: ancient_core_normal_die_15
+  - first:
+      213: 7345809282342131237
+    second: ancient_core_normal_die_16
+  - first:
+      213: 1188828693590587417
+    second: ancient_core_normal_die_17
+  - first:
+      213: -6928972949037939082
+    second: ancient_core_normal_die_18
+  - first:
+      213: 1139385692128912981
+    second: ancient_core_normal_die_19
+  - first:
+      213: 6927140633801097188
+    second: ancient_core_normal_die_20
+  - first:
+      213: 2248331044711092703
+    second: ancient_core_normal_die_21
+  - first:
+      213: 1141989312017184704
+    second: ancient_core_normal_die_22
+  - first:
+      213: 8572610725096886644
+    second: ancient_core_normal_die_23
+  - first:
+      213: 6554822963432477663
+    second: ancient_core_normal_die_24
+  - first:
+      213: 7100855436590567123
+    second: ancient_core_normal_die_25
+  - first:
+      213: 2552089972755251848
+    second: ancient_core_normal_die_26
+  - first:
+      213: 4485998821107719777
+    second: ancient_core_normal_die_27
+  - first:
+      213: -1196521800140644001
+    second: ancient_core_normal_die_28
+  - first:
+      213: -3015231550743989336
+    second: ancient_core_normal_die_29
+  - first:
+      213: -5875000141702285340
+    second: ancient_core_normal_die_30
+  - first:
+      213: -8976408990198354801
+    second: ancient_core_normal_die_31
+  - first:
+      213: 6535147305773485094
+    second: ancient_core_normal_die_32
+  - first:
+      213: -8690697398280977989
+    second: ancient_core_normal_die_33
+  - first:
+      213: -6633809253681185342
+    second: ancient_core_normal_die_34
+  - first:
+      213: 1745048407648284171
+    second: ancient_core_normal_die_35
+  - first:
+      213: 1597161683087525886
+    second: ancient_core_normal_die_36
+  - first:
+      213: -6710875440161514680
+    second: ancient_core_normal_die_37
+  - first:
+      213: 4188857154203009555
+    second: ancient_core_normal_die_38
+  - first:
+      213: 2218489331901229805
+    second: ancient_core_normal_die_39
+  - first:
+      213: -2780759413402874094
+    second: ancient_core_normal_die_40
+  - first:
+      213: 1132977919067784531
+    second: ancient_core_normal_die_41
+  - first:
+      213: 2258279965202169637
+    second: ancient_core_normal_die_42
+  - first:
+      213: 5194618773577646211
+    second: ancient_core_normal_die_43
+  - first:
+      213: 5638325219621346359
+    second: ancient_core_normal_die_44
+  - first:
+      213: 473605578158936694
+    second: ancient_core_normal_die_45
+  - first:
+      213: -5453521864779693973
+    second: ancient_core_normal_die_46
+  - first:
+      213: -1828067051987411211
+    second: ancient_core_normal_die_47
+  - first:
+      213: -1884081571952651158
+    second: ancient_core_normal_die_48
+  - first:
+      213: -7634183847050499281
+    second: ancient_core_normal_die_49
+  - first:
+      213: -2344003158997735481
+    second: ancient_core_normal_die_50
+  - first:
+      213: -3723943623338063312
+    second: ancient_core_normal_die_51
+  - first:
+      213: -1730022504898778349
+    second: ancient_core_normal_die_52
+  - first:
+      213: -3939380331873401586
+    second: ancient_core_normal_die_53
+  - first:
+      213: -3711985572968000237
+    second: ancient_core_normal_die_54
+  - first:
+      213: 3294592801341895457
+    second: ancient_core_normal_die_55
+  - first:
+      213: -4762794278774111498
+    second: ancient_core_normal_die_56
+  - first:
+      213: 8930293148314531185
+    second: ancient_core_normal_die_57
+  - first:
+      213: -8258345519871164657
+    second: ancient_core_normal_die_58
+  - first:
+      213: -1186751157305677237
+    second: ancient_core_normal_die_59
+  - first:
+      213: -2717286449206786044
+    second: ancient_core_normal_die_60
+  - first:
+      213: 2016959722229986783
+    second: ancient_core_normal_die_61
+  - first:
+      213: -5044087477595046072
+    second: ancient_core_normal_die_62
+  - first:
+      213: 3981315468108199998
+    second: ancient_core_normal_die_63
+  - first:
+      213: 3871994061978551914
+    second: ancient_core_normal_die_64
+  - first:
+      213: 7440399260717289444
+    second: ancient_core_normal_die_65
+  - first:
+      213: -5040760972099009561
+    second: ancient_core_normal_die_66
+  - first:
+      213: 2709472917992581388
+    second: ancient_core_normal_die_67
+  - first:
+      213: -4358167136099027616
+    second: ancient_core_normal_die_68
+  - first:
+      213: 2466304513914356727
+    second: ancient_core_normal_die_69
+  - first:
+      213: 3922539501846547909
+    second: ancient_core_normal_die_70
+  - first:
+      213: 959004213398834954
+    second: ancient_core_normal_die_71
+  - first:
+      213: 6252924486921768303
+    second: ancient_core_normal_die_72
+  - first:
+      213: -2127495307396710954
+    second: ancient_core_normal_die_73
+  - first:
+      213: -4676638258199607335
+    second: ancient_core_normal_die_74
+  - first:
+      213: -5074998962071914734
+    second: ancient_core_normal_die_75
+  - first:
+      213: -5794428071237347350
+    second: ancient_core_normal_die_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ancient_core_normal_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d232a57a0097d1480800000000000000
+      internalID: -8926845842663791827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb1470fd1a8fc420800000000000000
+      internalID: 2652490566737337274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1f8be0d48e70550800000000000000
+      internalID: 6127121235717976498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18419de82d375c6b0800000000000000
+      internalID: -5276684040217750399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e7df919bea0e150800000000000000
+      internalID: 5899907621883575945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b553c57c1c4d50bf0800000000000000
+      internalID: -358646666567600805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ab86895858a7ca0800000000000000
+      internalID: -6018351143193101745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7592905fdf130d480800000000000000
+      internalID: -8876539898739742377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb2b3a8f22702800800000000000000
+      internalID: 585593500066327515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac36370e98e60970800000000000000
+      internalID: 8720913493873015982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60fcf8f681492540800000000000000
+      internalID: 4983586510620913771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ancient_core_normal_die_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960e9487d1971f080800000000000000
+      internalID: -9155403399988387735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ed398d89d4d4c004d9fd5c50cf07674d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ancient_core_normal_die_0: -8926845842663791827
+      ancient_core_normal_die_1: 2652490566737337274
+      ancient_core_normal_die_10: 4983586510620913771
+      ancient_core_normal_die_11: -9155403399988387735
+      ancient_core_normal_die_2: 6127121235717976498
+      ancient_core_normal_die_3: -5276684040217750399
+      ancient_core_normal_die_4: 5899907621883575945
+      ancient_core_normal_die_5: -358646666567600805
+      ancient_core_normal_die_6: -6018351143193101745
+      ancient_core_normal_die_7: -8876539898739742377
+      ancient_core_normal_die_8: 585593500066327515
+      ancient_core_normal_die_9: 8720913493873015982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 63ff33b99a928a045ad3fd0c74bba2de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6736854394550122540
+    second: crystal_golem_8_death_0
+  - first:
+      213: 9038626653659103272
+    second: crystal_golem_8_death_1
+  - first:
+      213: -584894842227340015
+    second: crystal_golem_8_death_2
+  - first:
+      213: 8651307757454128926
+    second: crystal_golem_8_death_3
+  - first:
+      213: 2725523239193585697
+    second: crystal_golem_8_death_4
+  - first:
+      213: 3552104500002957821
+    second: crystal_golem_8_death_5
+  - first:
+      213: 2977659505655906928
+    second: crystal_golem_8_death_6
+  - first:
+      213: -4914460071545468357
+    second: crystal_golem_8_death_7
+  - first:
+      213: -202755723891858094
+    second: crystal_golem_8_death_8
+  - first:
+      213: -6482879817144003333
+    second: crystal_golem_8_death_9
+  - first:
+      213: 8677680641727700198
+    second: crystal_golem_8_death_10
+  - first:
+      213: -8479713923500766310
+    second: crystal_golem_8_death_11
+  - first:
+      213: 5790553065419544588
+    second: crystal_golem_8_death_12
+  - first:
+      213: -3272408492387062690
+    second: crystal_golem_8_death_13
+  - first:
+      213: -3332499976975383340
+    second: crystal_golem_8_death_14
+  - first:
+      213: -6525493519931941912
+    second: crystal_golem_8_death_15
+  - first:
+      213: 2419397209448501944
+    second: crystal_golem_8_death_16
+  - first:
+      213: -901387734620434639
+    second: crystal_golem_8_death_17
+  - first:
+      213: -8595788388881882572
+    second: crystal_golem_8_death_18
+  - first:
+      213: 7951992281675459471
+    second: crystal_golem_8_death_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crystal_golem_8_death_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 129
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78f4d1f92e182a0800000000000000
+      internalID: -6736854394550122540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 143
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8208ab48d07af6d70800000000000000
+      internalID: 9038626653659103272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 166
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dc41a6d3902e7f0800000000000000
+      internalID: -584894842227340015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 197
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1772ad919e9f0870800000000000000
+      internalID: 8651307757454128926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 249
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a43312f003d520800000000000000
+      internalID: 2725523239193585697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 270
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92ebf093c9b4130800000000000000
+      internalID: 3552104500002957821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_6
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 238
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728fa84b85c25920800000000000000
+      internalID: 2977659505655906928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_7
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 0
+        width: 207
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a01b45a945ccbb0800000000000000
+      internalID: -4914460071545468357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_8
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 0
+        width: 206
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255af3d4ebaaf2df0800000000000000
+      internalID: -202755723891858094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_9
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 197
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf41591772f2806a0800000000000000
+      internalID: -6482879817144003333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_10
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 113
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec967c31905d6870800000000000000
+      internalID: 8677680641727700198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_11
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 0
+        width: 137
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8dc03d11025a80800000000000000
+      internalID: -8479713923500766310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_8_death_12
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 0
+        width: 94
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089165555d2c5050800000000000000
+      internalID: 5790553065419544588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_2_death_0
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 103
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32fd0352705c364f844b24c4fef7cff
+      internalID: -1750964844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crystal_golem_2_death_1
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 0
+        width: 95
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79792c87bb5bfca46baa7c58a3279247
+      internalID: 2008500116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8924776e3dab438478bde6e146e7ce05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crystal_golem_2_death_0: -1750964844
+      crystal_golem_2_death_1: 2008500116
+      crystal_golem_8_death_0: -6736854394550122540
+      crystal_golem_8_death_1: 9038626653659103272
+      crystal_golem_8_death_10: 8677680641727700198
+      crystal_golem_8_death_11: -8479713923500766310
+      crystal_golem_8_death_12: 5790553065419544588
+      crystal_golem_8_death_13: -3272408492387062690
+      crystal_golem_8_death_14: -3332499976975383340
+      crystal_golem_8_death_15: -6525493519931941912
+      crystal_golem_8_death_16: 2419397209448501944
+      crystal_golem_8_death_17: -901387734620434639
+      crystal_golem_8_death_18: -8595788388881882572
+      crystal_golem_8_death_19: 7951992281675459471
+      crystal_golem_8_death_2: -584894842227340015
+      crystal_golem_8_death_3: 8651307757454128926
+      crystal_golem_8_death_4: 2725523239193585697
+      crystal_golem_8_death_5: 3552104500002957821
+      crystal_golem_8_death_6: 2977659505655906928
+      crystal_golem_8_death_7: -4914460071545468357
+      crystal_golem_8_death_8: -202755723891858094
+      crystal_golem_8_death_9: -6482879817144003333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

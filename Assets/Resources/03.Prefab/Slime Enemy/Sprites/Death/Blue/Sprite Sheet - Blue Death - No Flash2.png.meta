@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 261c5a9b610896b4993c9449d1821b97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6941236072329557848
+    second: Sprite Sheet - Blue Death - No Flash2_0
+  - first:
+      213: -8656303409139957188
+    second: Sprite Sheet - Blue Death - No Flash2_1
+  - first:
+      213: 468343252681263319
+    second: Sprite Sheet - Blue Death - No Flash2_2
+  - first:
+      213: -7874941819248334853
+    second: Sprite Sheet - Blue Death - No Flash2_3
+  - first:
+      213: -8211041913164475431
+    second: Sprite Sheet - Blue Death - No Flash2_4
+  - first:
+      213: -5520204111834120175
+    second: Sprite Sheet - Blue Death - No Flash2_5
+  - first:
+      213: -6812503571936066802
+    second: Sprite Sheet - Blue Death - No Flash2_6
+  - first:
+      213: -283120465817983739
+    second: Sprite Sheet - Blue Death - No Flash2_7
+  - first:
+      213: 7431819473010534948
+    second: Sprite Sheet - Blue Death - No Flash2_8
+  - first:
+      213: -3089079992795669811
+    second: Sprite Sheet - Blue Death - No Flash2_9
+  - first:
+      213: 7892046161622945774
+    second: Sprite Sheet - Blue Death - No Flash2_10
+  - first:
+      213: -7364355333961320714
+    second: Sprite Sheet - Blue Death - No Flash2_11
+  - first:
+      213: -120334656581046689
+    second: Sprite Sheet - Blue Death - No Flash2_12
+  - first:
+      213: 8327976594003082041
+    second: Sprite Sheet - Blue Death - No Flash2_13
+  - first:
+      213: 5057852211519995021
+    second: Sprite Sheet - Blue Death - No Flash2_14
+  - first:
+      213: 5856064356298367954
+    second: Sprite Sheet - Blue Death - No Flash2_15
+  - first:
+      213: -3714630021811033237
+    second: Sprite Sheet - Blue Death - No Flash2_16
+  - first:
+      213: -6286468497457170399
+    second: Sprite Sheet - Blue Death - No Flash2_17
+  - first:
+      213: 1010777219779630830
+    second: Sprite Sheet - Blue Death - No Flash2_18
+  - first:
+      213: 8648039214827744636
+    second: Sprite Sheet - Blue Death - No Flash2_19
+  - first:
+      213: 8494619603510407059
+    second: Sprite Sheet - Blue Death - No Flash2_20
+  - first:
+      213: 4807842870489983819
+    second: Sprite Sheet - Blue Death - No Flash2_21
+  - first:
+      213: -7537570362049628860
+    second: Sprite Sheet - Blue Death - No Flash2_22
+  - first:
+      213: 4567250062507132391
+    second: Sprite Sheet - Blue Death - No Flash2_23
+  - first:
+      213: 2471391337869639049
+    second: Sprite Sheet - Blue Death - No Flash2_24
+  - first:
+      213: -288076132854716229
+    second: Sprite Sheet - Blue Death - No Flash2_25
+  - first:
+      213: -724562973216906589
+    second: Sprite Sheet - Blue Death - No Flash2_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b4597e69345060800000000000000
+      internalID: 6941236072329557848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c53699e1aed780800000000000000
+      internalID: -8656303409139957188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d88409f4b3ef7600800000000000000
+      internalID: 468343252681263319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7a5dc732696b290800000000000000
+      internalID: -7874941819248334853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3dcf942e48c0e80800000000000000
+      internalID: -8211041913164475431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100a7a8b9b4463b0800000000000000
+      internalID: -5520204111834120175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03cba378102571a0800000000000000
+      internalID: -6812503571936066802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505a646bf67221cf0800000000000000
+      internalID: -283120465817983739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aaf9b6f60232760800000000000000
+      internalID: 7431819473010534948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcad5aafc126125d0800000000000000
+      internalID: -3089079992795669811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef458e8b2e268d60800000000000000
+      internalID: 7892046161622945774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f67b7f77dd8cc990800000000000000
+      internalID: -7364355333961320714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e6154744c745ef0800000000000000
+      internalID: -120334656581046689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet - Blue Death - No Flash2_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b3257b69ae29370800000000000000
+      internalID: 8327976594003082041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: caa1e0ee454c86a4992ae4557d53b3a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite Sheet - Blue Death - No Flash2_0: 6941236072329557848
+      Sprite Sheet - Blue Death - No Flash2_1: -8656303409139957188
+      Sprite Sheet - Blue Death - No Flash2_10: 7892046161622945774
+      Sprite Sheet - Blue Death - No Flash2_11: -7364355333961320714
+      Sprite Sheet - Blue Death - No Flash2_12: -120334656581046689
+      Sprite Sheet - Blue Death - No Flash2_13: 8327976594003082041
+      Sprite Sheet - Blue Death - No Flash2_14: 5057852211519995021
+      Sprite Sheet - Blue Death - No Flash2_15: 5856064356298367954
+      Sprite Sheet - Blue Death - No Flash2_16: -3714630021811033237
+      Sprite Sheet - Blue Death - No Flash2_17: -6286468497457170399
+      Sprite Sheet - Blue Death - No Flash2_18: 1010777219779630830
+      Sprite Sheet - Blue Death - No Flash2_19: 8648039214827744636
+      Sprite Sheet - Blue Death - No Flash2_2: 468343252681263319
+      Sprite Sheet - Blue Death - No Flash2_20: 8494619603510407059
+      Sprite Sheet - Blue Death - No Flash2_21: 4807842870489983819
+      Sprite Sheet - Blue Death - No Flash2_22: -7537570362049628860
+      Sprite Sheet - Blue Death - No Flash2_23: 4567250062507132391
+      Sprite Sheet - Blue Death - No Flash2_24: 2471391337869639049
+      Sprite Sheet - Blue Death - No Flash2_25: -288076132854716229
+      Sprite Sheet - Blue Death - No Flash2_26: -724562973216906589
+      Sprite Sheet - Blue Death - No Flash2_3: -7874941819248334853
+      Sprite Sheet - Blue Death - No Flash2_4: -8211041913164475431
+      Sprite Sheet - Blue Death - No Flash2_5: -5520204111834120175
+      Sprite Sheet - Blue Death - No Flash2_6: -6812503571936066802
+      Sprite Sheet - Blue Death - No Flash2_7: -283120465817983739
+      Sprite Sheet - Blue Death - No Flash2_8: 7431819473010534948
+      Sprite Sheet - Blue Death - No Flash2_9: -3089079992795669811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
