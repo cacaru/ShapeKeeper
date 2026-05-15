@@ -24,35 +24,20 @@
 
 ## 🛠 Tech Stack
 
-### 엔진 / 언어
-
-* **Engine**: Unity 6 (6000.0.63f1) + URP 17.0.4 — Unity 6 신규 셰이더 시스템을 모바일 환경에서 검증
-* **2D / Tilemap**: `com.unity.feature.2d` 2.0.1 — Tilemap 기반 스테이지 구성 및 길찾기 그리드의 기반
-* **Input**: Unity Input System 1.16.0 — 신규 입력 시스템 적용
-* **Tweening**: DOTween (Demigiant) — UI · 이펙트 트위닝, 콜백 체이닝으로 코루틴 대비 흐름 단순화
-* **Language**: C#
-* **Target Platform**: Android (세로 모드, v1.3.1 / Bundle 12 출시)
-
-### 데이터
-
-* **Database**: SQLite (`Mono.Data.Sqlite`) — `StreamingAssets/ShapeKeeperDB.db`에 업적 · 미션 · 유닛 · 유저 진행도 로컬 영속화
-* **중앙 데이터 허브** — `Game_State_Data` 정적 클래스로 씬 · DB 상태 · 난이도 · 게임 속도 · 라운드 · 스태미나를 일원화 (전역 접근 1지점)
-* **도메인 데이터 캐시** — `Game_Data` 정적 영역에 유닛 사전(`unit_dic`) · 유닛 카운터(`unit_counter`) · 합성 함수(`CombineFunction`)를 로드해 런타임 조회를 O(1)에 처리
-
-### 아키텍처 패턴
-
-* **싱글톤 2계층** — 영속(`Singleton<T>` + `DontDestroyOnLoad`, ex. `ModifyDB`) / 씬 한정(`Scene_Singleton<T>`, ex. `Bullet_Pool`)으로 매니저 수명을 명시적으로 분리
-* **Observer 분배 매니저** — `Achievement_Observer` · `Stamina_Observer` · `Day_Change_Observer` · `Combine_Observer` · `Spell_Recognition_Observer`가 도메인 이벤트 발생 시 UI · 시스템에 변경을 전파하는 중앙 진입점 역할
-* **상태 기반 FSM** — 유닛 행동(공격 / 대기 / 회수 / 변환)을 상태로 분리하여 분기 폭주 방지
-* **Pipeline 분리** — 카드 인터랙션을 단방향 흐름으로 모듈화 `Card_To_Summon` → `TowerInstaller` → `Summon` → (`Shift` / `Recall` / `Special_Unit_Type_Changer`)
-
-### 최적화
-
-* **Queue 기반 오브젝트 풀링** — 8종 전용 풀 (Bullet · Enemy · Effect · Card · Combine · Area · LockOn · Ora). Enemy는 `ori` / `shield` / `bust` 3종으로 분리, Effect / Ora는 `Dictionary<OraType, Queue<>>` 구조로 타입별 분리
-* **풀 자동 증량** — `Bullet_Pool`은 100개로 초기화하되, `Get()` 시점에 부족하면 즉시 `Create()`로 런타임 무중단 확장 (전투 절정에도 풀 고갈 없음)
-* **A\* Pathfinding** (Tilemap, 8방향, 대각 비용 14·직선 10) — 평균 탐색 0.04초. 유저 타워 설치로 경로가 막히면 `Re_Path_Finding`이 가장 가까운 도달 가능 셀부터 즉시 재탐색
-* **SQL 쓰기 큐 + 코루틴 비동기** — `ModifyDB`가 `query_queue` / `db_queue`로 변경 쿼리를 큐잉, `StartCoroutine(Modify_Active())`로 매 프레임 1건씩 처리하여 메인 스레드 블로킹 회피
-* **`DB_STATE` 플래그** — 쓰기 큐가 비고 처리가 끝난 시점에만 `Usable`로 전환, 읽기-쓰기 충돌 방지
+- **엔진 / 언어**: Unity 6 (6000.0.63f1, URP 17.0.4), C#
+- **데이터**: SQLite (`Mono.Data.Sqlite`) — `StreamingAssets/ShapeKeeperDB.db`에 업적·미션·유닛·유저 진행도 로컬 영속화
+- **아키텍처 패턴**
+    - **싱글톤 2계층** — 영속(`Singleton<T>` + `DontDestroyOnLoad`) / 씬 한정(`Scene_Singleton<T>`) 분리로 매니저 수명 명시화
+    - **중앙 상태 허브** — `Game_State_Data` 정적 클래스로 씬·DB 상태·난이도·게임 속도·라운드·스태미나 일원화
+    - **Observer 분배 매니저** — `Achievement_Observer`·`Stamina_Observer`·`Day_Change_Observer`·`Combine_Observer`·`Spell_Recognition_Observer`가 도메인 이벤트를 UI·시스템에 전파하는 중앙 진입점
+    - **카드 → 소환 Pipeline** — `Card_To_Summon` → `TowerInstaller` → `Summon` → (`Shift` / `Recall` / `Special_Unit_Type_Changer`)로 카드 인터랙션을 단방향 모듈화
+    - **상태 기반 FSM** — 유닛 행동(공격 / 대기 / 회수 / 변환)을 상태로 분리해 분기 폭주 방지
+- **최적화**
+    - Queue 기반 오브젝트 풀링 (Bullet, Enemy, Effect, Card, Combine, Area, LockOn, Ora 8종) — Bullet은 `Get()` 시점에 풀이 비면 자동 증량
+    - 타입별 풀 분리 — Enemy는 `ori`/`shield`/`bust` 3종, Effect·Ora는 `Dictionary<OraType, Queue<>>` 구조로 분리
+    - A\* Pathfinding (Tilemap, 8방향, 대각 14·직선 10) — 평균 탐색 0.04초, 타워 설치로 막힌 경로는 `Re_Path_Finding`으로 즉시 재탐색
+    - SQL 쓰기 큐 + 코루틴 기반 비동기 처리 (`ModifyDB`의 `query_queue` / `Modify_Active()`) — 메인 스레드 블로킹 회피
+    - `DB_STATE` 플래그 — 쓰기 큐가 비고 처리가 끝난 시점에만 `Usable`로 전환해 읽기-쓰기 충돌 방지
 
 ## 📱 다운로드
 
