@@ -26,32 +26,33 @@
 
 ### 엔진 / 언어
 
-* **Engine**: Unity 6 (6000.0.63f1)
-* **Render Pipeline**: Universal Render Pipeline (URP) 17.0.4
-* **2D Feature**: com.unity.feature.2d 2.0.1
-* **Input**: Unity Input System 1.16.0
-* **Tweening**: DOTween (Demigiant)
+* **Engine**: Unity 6 (6000.0.63f1) + URP 17.0.4 — Unity 6 신규 셰이더 시스템을 모바일 환경에서 검증
+* **2D / Tilemap**: `com.unity.feature.2d` 2.0.1 — Tilemap 기반 스테이지 구성 및 길찾기 그리드의 기반
+* **Input**: Unity Input System 1.16.0 — 신규 입력 시스템 적용
+* **Tweening**: DOTween (Demigiant) — UI · 이펙트 트위닝, 콜백 체이닝으로 코루틴 대비 흐름 단순화
 * **Language**: C#
-* **Target Platform**: Android (세로 모드)
+* **Target Platform**: Android (세로 모드, v1.3.1 / Bundle 12 출시)
 
 ### 데이터
 
-* **Database**: SQLite (`Mono.Data.Sqlite`) — `StreamingAssets/ShapeKeeperDB.db`
-* **영속 데이터**: 업적 / 미션 / 유닛 / 사용자 진행 상황
-* **전역 상태 허브**: `Game_State_Data` 정적 클래스 — 씬 · DB 상태 · 난이도 · 게임 속도 · 라운드 · 스태미나를 한 곳에서 추적
+* **Database**: SQLite (`Mono.Data.Sqlite`) — `StreamingAssets/ShapeKeeperDB.db`에 업적 · 미션 · 유닛 · 유저 진행도 로컬 영속화
+* **중앙 데이터 허브** — `Game_State_Data` 정적 클래스로 씬 · DB 상태 · 난이도 · 게임 속도 · 라운드 · 스태미나를 일원화 (전역 접근 1지점)
+* **도메인 데이터 캐시** — `Game_Data` 정적 영역에 유닛 사전(`unit_dic`) · 유닛 카운터(`unit_counter`) · 합성 함수(`CombineFunction`)를 로드해 런타임 조회를 O(1)에 처리
 
 ### 아키텍처 패턴
 
-* **제네릭 Singleton<T>** — `DontDestroyOnLoad` 기반 매니저 클래스 재사용
-* **Observer 패턴** — `Achievement_Observer`, `Stamina_Observer`, `Day_Change_Observer`, `Combine_Observer`, `Spell_Recognition_Observer` 등
-* **상태 기반 FSM** — 유닛 행동 처리
-* **Pipeline 분리** — `Card_To_Summon` → `TowerInstaller` → `Summon` → (`Shift` / `Recall` / `Special_Unit_Type_Changer`)
+* **싱글톤 2계층** — 영속(`Singleton<T>` + `DontDestroyOnLoad`, ex. `ModifyDB`) / 씬 한정(`Scene_Singleton<T>`, ex. `Bullet_Pool`)으로 매니저 수명을 명시적으로 분리
+* **Observer 분배 매니저** — `Achievement_Observer` · `Stamina_Observer` · `Day_Change_Observer` · `Combine_Observer` · `Spell_Recognition_Observer`가 도메인 이벤트 발생 시 UI · 시스템에 변경을 전파하는 중앙 진입점 역할
+* **상태 기반 FSM** — 유닛 행동(공격 / 대기 / 회수 / 변환)을 상태로 분리하여 분기 폭주 방지
+* **Pipeline 분리** — 카드 인터랙션을 단방향 흐름으로 모듈화 `Card_To_Summon` → `TowerInstaller` → `Summon` → (`Shift` / `Recall` / `Special_Unit_Type_Changer`)
 
 ### 최적화
 
-* **Object Pooling** — 8종 전용 풀 (`Bullet` / `Enemy` / `Effect` / `Card` / `Combine` / `Area` / `LockOn` / `Ora`)로 GC 부담 최소화
-* **A\* Pathfinding** (Tilemap, 8방향) — 평균 탐색 0.04초, 타일맵 변경 시 즉시 재탐색
-* **타입별 풀 분리** — 같은 도메인 안에서도 객체 특성에 맞춰 풀을 나눠 재사용률 향상
+* **Queue 기반 오브젝트 풀링** — 8종 전용 풀 (Bullet · Enemy · Effect · Card · Combine · Area · LockOn · Ora). Enemy는 `ori` / `shield` / `bust` 3종으로 분리, Effect / Ora는 `Dictionary<OraType, Queue<>>` 구조로 타입별 분리
+* **풀 자동 증량** — `Bullet_Pool`은 100개로 초기화하되, `Get()` 시점에 부족하면 즉시 `Create()`로 런타임 무중단 확장 (전투 절정에도 풀 고갈 없음)
+* **A\* Pathfinding** (Tilemap, 8방향, 대각 비용 14·직선 10) — 평균 탐색 0.04초. 유저 타워 설치로 경로가 막히면 `Re_Path_Finding`이 가장 가까운 도달 가능 셀부터 즉시 재탐색
+* **SQL 쓰기 큐 + 코루틴 비동기** — `ModifyDB`가 `query_queue` / `db_queue`로 변경 쿼리를 큐잉, `StartCoroutine(Modify_Active())`로 매 프레임 1건씩 처리하여 메인 스레드 블로킹 회피
+* **`DB_STATE` 플래그** — 쓰기 큐가 비고 처리가 끝난 시점에만 `Usable`로 전환, 읽기-쓰기 충돌 방지
 
 ## 📱 다운로드
 
