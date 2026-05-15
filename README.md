@@ -24,16 +24,34 @@
 
 ## 🛠 Tech Stack
 
-* **Engine**: Unity 6000.0.63f1
+### 엔진 / 언어
+
+* **Engine**: Unity 6 (6000.0.63f1)
 * **Render Pipeline**: Universal Render Pipeline (URP) 17.0.4
 * **2D Feature**: com.unity.feature.2d 2.0.1
 * **Input**: Unity Input System 1.16.0
+* **Tweening**: DOTween (Demigiant)
 * **Language**: C#
-* **Database**: SQLite (`Mono.Data.Sqlite`)
-* **Pathfinding**: A\* (Tilemap, 8방향)
-* **AI**: 상태 기반 FSM (유닛 행동 처리)
-* **Tweening**: DOTween
 * **Target Platform**: Android (세로 모드)
+
+### 데이터
+
+* **Database**: SQLite (`Mono.Data.Sqlite`) — `StreamingAssets/ShapeKeeperDB.db`
+* **영속 데이터**: 업적 / 미션 / 유닛 / 사용자 진행 상황
+* **전역 상태 허브**: `Game_State_Data` 정적 클래스 — 씬 · DB 상태 · 난이도 · 게임 속도 · 라운드 · 스태미나를 한 곳에서 추적
+
+### 아키텍처 패턴
+
+* **제네릭 Singleton<T>** — `DontDestroyOnLoad` 기반 매니저 클래스 재사용
+* **Observer 패턴** — `Achievement_Observer`, `Stamina_Observer`, `Day_Change_Observer`, `Combine_Observer`, `Spell_Recognition_Observer` 등
+* **상태 기반 FSM** — 유닛 행동 처리
+* **Pipeline 분리** — `Card_To_Summon` → `TowerInstaller` → `Summon` → (`Shift` / `Recall` / `Special_Unit_Type_Changer`)
+
+### 최적화
+
+* **Object Pooling** — 8종 전용 풀 (`Bullet` / `Enemy` / `Effect` / `Card` / `Combine` / `Area` / `LockOn` / `Ora`)로 GC 부담 최소화
+* **A\* Pathfinding** (Tilemap, 8방향) — 평균 탐색 0.04초, 타일맵 변경 시 즉시 재탐색
+* **타입별 풀 분리** — 같은 도메인 안에서도 객체 특성에 맞춰 풀을 나눠 재사용률 향상
 
 ## 📱 다운로드
 
